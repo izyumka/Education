@@ -8,5 +8,6 @@ public class Main {
         System.out.println(calc.mult(3,4));
         System.out.println(calc.div(4, 2));
         System.out.println((calc.sqrt(16)));
+        System.out.println(calc.sqrt(4));
     }
 }
