@@ -15,7 +15,7 @@ public class Main {
         System.out.println(calc.sqrt(4));
         System.out.println(calc);
         System.out.println(calc2);
-        System.out.println(calc3.accurancy);
-        System.out.println(calc3.chargelevel);
+        System.out.println(calc3.getAccurancy());
+        System.out.println(calc3.getChargelevel());
     }
 }
